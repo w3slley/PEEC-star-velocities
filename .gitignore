@@ -1,1 +1,6 @@
 src/
+*.ipynb
+.debris/
+pycache/
+velocity-dispersion
+__pycache__/
